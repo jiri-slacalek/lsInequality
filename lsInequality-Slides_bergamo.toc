@@ -1,0 +1,10 @@
+\beamer@endinputifotherversion {3.33pt}
+\babel@toc {english}{}
+\beamer@sectionintoc {1}{Motivation}{4}{0}{1}
+\beamer@sectionintoc {2}{Plan}{11}{0}{2}
+\beamer@sectionintoc {3}{Background slides}{28}{0}{3}
+\beamer@sectionintoc {4}{Literature}{29}{0}{4}
+\beamer@sectionintoc {5}{VAR}{31}{0}{5}
+\beamer@sectionintoc {6}{HFCS estimation}{35}{0}{6}
+\beamer@sectionintoc {7}{Results}{36}{0}{7}
+\beamer@sectionintoc {8}{Implications}{37}{0}{8}
